@@ -1,18 +1,27 @@
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
-    background-image: url("https://casino-girl.com/wp-content/uploads/2020/02/Blackjack01.jpg");
+    font-family: "Times New Roman", Times, serif;
+    background-image: url("https://nuffy.net/wp-content/uploads/2013/07/5-Best-Live-Dealers-Online-Casinos.jpg");
     background-size: cover;
     font-weight: bold;
-    color: gold;
+    font-style: oblique;
+    color: white;
     text-align: left;
 }
-//writen by haldam9000
+
 h1 {
-    color: gold;
+    color: black;
+    text-shadow: 2px 2px whitesmoke;
+    font-size: 50px;
 }
 
 #message-el {
-    font-style: italic;
+    font-style: bold;
+   color: white;
+}
+p {
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow: 2px 2px black;
 }
 
 button {
@@ -22,6 +31,7 @@ button {
     padding-top: 5px;
     padding-bottom: 5px;
     font-weight: bold;
+    //text-shadow: 1px 1px bLACK;
     border: none;
     border-radius: 2px;
     margin-bottom: 2px;
